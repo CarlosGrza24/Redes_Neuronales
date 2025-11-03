@@ -52,5 +52,5 @@ El objetivo es entrenar un modelo capaz de reconocer dígitos escritos a mano, e
 
 - [Reporte en ipynb](A3_2_648241.ipynb)  
 - [Reporte en html](A3_2_648241.html)  
-- [Modelo](user_images.zip)  
-- [Sistema en tiempo real](realtime_digit_detection.py)
+- [Modelo detector](Modelodetector.ipynb)  
+- [Modelo detector html](Modelodetector.html)
